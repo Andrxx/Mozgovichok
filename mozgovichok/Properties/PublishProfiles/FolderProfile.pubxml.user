@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\repository\mozgovichok\mozgovichok\bin\Release\net8.0\publish\</_PublishTargetUrl>
+    <History>True|2024-04-29T23:14:28.3616007Z;True|2024-04-30T01:38:10.3592010+03:00;True|2024-04-30T01:29:53.4974477+03:00;True|2024-04-30T01:29:34.0830588+03:00;True|2024-04-30T01:21:31.7249027+03:00;True|2024-04-30T01:11:35.2315928+03:00;True|2024-04-29T00:19:39.3329073+03:00;True|2024-04-29T00:16:35.2030095+03:00;True|2024-04-29T00:13:23.3878548+03:00;True|2024-04-28T23:21:09.7072995+03:00;True|2024-04-28T23:17:46.4101494+03:00;True|2024-04-28T23:08:13.9541971+03:00;True|2024-04-28T22:31:51.7098311+03:00;True|2024-04-28T22:16:30.9540839+03:00;True|2024-04-28T22:12:30.9563199+03:00;True|2024-04-28T22:09:22.9421516+03:00;True|2024-04-28T19:06:50.8413646+03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
